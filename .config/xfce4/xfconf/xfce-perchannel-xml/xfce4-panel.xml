@@ -94,16 +94,15 @@
         <value type="string" value="xfce-backdrop-settings.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="libreoffice-draw.desktop"/>
-        <value type="string" value="wutheringwaves.desktop"/>
+        <value type="string" value="onlyoffice-desktopeditors.desktop"/>
+        <value type="string" value="zotero.desktop"/>
         <value type="string" value="leafpad.desktop"/>
-        <value type="string" value="an-anime-game-launcher.desktop"/>
-        <value type="string" value="Alacritty.desktop"/>
-        <value type="string" value="xfce4-mime-settings.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="mongodb-compass.desktop"/>
+        <value type="string" value="wutheringwaves.desktop"/>
         <value type="string" value="sleepy-launcher.desktop"/>
+        <value type="string" value="xarchiver.desktop"/>
         <value type="string" value="htop.desktop"/>
-        <value type="string" value="codium-wayland.desktop"/>
+        <value type="string" value="xfce4-sensors.desktop"/>
       </property>
       <property name="show-button-icon" type="bool" value="true"/>
       <property name="show-button-title" type="bool" value="false"/>
@@ -166,11 +165,6 @@
         <value type="string" value="17214729141.desktop"/>
       </property>
     </property>
-    <property name="plugin-14" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17214854861.desktop"/>
-      </property>
-    </property>
     <property name="plugin-15" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17215373871.desktop"/>
@@ -188,6 +182,11 @@
     <property name="plugin-23" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17216307981.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17219698131.desktop"/>
       </property>
     </property>
   </property>

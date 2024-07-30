@@ -94,15 +94,16 @@
         <value type="string" value="xfce-backdrop-settings.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="onlyoffice-desktopeditors.desktop"/>
-        <value type="string" value="zotero.desktop"/>
-        <value type="string" value="leafpad.desktop"/>
-        <value type="string" value="mongodb-compass.desktop"/>
         <value type="string" value="wutheringwaves.desktop"/>
+        <value type="string" value="lightdm-gtk-greeter-settings.desktop"/>
+        <value type="string" value="an-anime-game-launcher.desktop"/>
         <value type="string" value="sleepy-launcher.desktop"/>
-        <value type="string" value="xarchiver.desktop"/>
+        <value type="string" value="leafpad.desktop"/>
+        <value type="string" value="xfce4-clipman-settings.desktop"/>
+        <value type="string" value="xfce4-clipman.desktop"/>
         <value type="string" value="htop.desktop"/>
-        <value type="string" value="xfce4-sensors.desktop"/>
+        <value type="string" value="onlyoffice-desktopeditors.desktop"/>
+        <value type="string" value="mongodb-compass.desktop"/>
       </property>
       <property name="show-button-icon" type="bool" value="true"/>
       <property name="show-button-title" type="bool" value="false"/>
@@ -172,6 +173,7 @@
     </property>
     <property name="plugin-18" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="clipman"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="wi-fi network connection “4g” active: 4g (79%)"/>
       </property>
